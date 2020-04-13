@@ -73,4 +73,4 @@ After the training completed, metrics of the model will be monitored and evaluat
 
 Results are expected to be like the following evaluation:
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/36932448/79136180-40ee4400-7db9-11ea-83d7-f9389dfff9d9.gif)
+![fingers](https://user-images.githubusercontent.com/36932448/79144172-30dd6100-7dc7-11ea-94e0-120582bc4112.gif)
