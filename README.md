@@ -1,4 +1,4 @@
-# Translating Sign Language to Text and Audio 
+# Finger Count Detection Using Deep Learning
 
 Some headers are explanied briefly below:
 
